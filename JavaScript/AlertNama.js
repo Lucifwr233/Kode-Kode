@@ -9,6 +9,8 @@ const user = {
    },
    language: language
 };
+
+//..
  
 if (user.language === "English") {
    alert("Nice to meet you " + user.name.first + " " + user.name.last + "!");
